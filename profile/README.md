@@ -1,4 +1,4 @@
-![CRESCENT Logo](./profile/resources/Crescent-Logo.png "Title")
+![CRESCENT Logo](./resources/Crescent-Logo.png "Title")
 
 # CRESCENTS  
 ### Cascadia Region Earthquake Science Center
