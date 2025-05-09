@@ -1,6 +1,6 @@
 ![CRESCENT Logo](./resources/Crescent-Logo.png "Title")
 
-# CRESCENTS  
+# CRESCENT  
 ### Cascadia Region Earthquake Science Center
 
 In 2023, the National Science Foundation awarded $15 million dollars to establish the Cascadia Region Earthquake Science Center, CRESCENT. CRESCENT is the nation’s first subduction zone earthquake hazards center — a nexus for earthquake science and hazards research. CRESCENT has three overarching goals:
