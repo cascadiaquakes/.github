@@ -59,6 +59,16 @@ Long maintainer-only material (admin setup, teardown steps, internal to-do lists
 This project is supported by the National Science Foundation through the Cascadia Region Earthquake Science Center (CRESCENT), Cooperative Agreement EAR-2225286.
 ```
 
+## Releasing a new version
+
+When a product is announced, cut a release so its citation and DOI match the current version:
+
+1. Agree on the author list and order.
+2. Update `CITATION.cff` (authors, `version`, `date-released`) and the README's How to Cite section. Add `CITATION.cff` if the repo doesn't have one yet.
+3. Publish a GitHub release. If the repo is linked to Zenodo, the new version is created automatically; otherwise use **New version** on the existing Zenodo record so it keeps the same DOI family.
+
+`CITATION.cff` never updates itself; Zenodo reads it at release time.
+
 ## Examples
 
 - Product: [cascadia-earthquake-viewer](https://github.com/cascadiaquakes/cascadia-earthquake-viewer)
